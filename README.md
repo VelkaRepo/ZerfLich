@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dionisius Lucky</h1>
-<h3 align="center">I'm a student passionate about cyber security and networking. Constantly learning and growing in this dynamic field. 💻🌐</h3>
+<h3 align="center">I'm a student passionate about cyber security and networking. Constantly learning and growing in this field. 💻🌐</h3>
 
 - 🔭 I’m currently working on [BOT-CTF](https://github.com/ZerfLich/BOT-CTF)
 
