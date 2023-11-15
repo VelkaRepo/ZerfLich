@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **docker and react!**
 
-- 📫 How to reach me **zerflich@gmail.com**
+- 📫 How to reach me **zerflich@gmail.com** and also by discord:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/697657956216471587)](https://discord.com/users/697657956216471587)
 
